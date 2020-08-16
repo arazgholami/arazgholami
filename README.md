@@ -11,7 +11,7 @@ Simplicity & neatness is valuable for me and humanity call the shots in my life.
 
 # Skills and experiences
 Senior **PHP**  /  **Laravel**  Developer <br>
-Also experienced in **Symfony**  and  **Yii**
+Also experienced in **Symfony**  and  **Yii**<br>
 MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
 OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 
