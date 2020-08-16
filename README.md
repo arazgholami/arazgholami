@@ -16,7 +16,7 @@ MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
 OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 
 # Last posts from my [blog](https:://arazgholami.com)
-- [LaTex Crash Course](https:://arazgholami.com)
-- [VIM Crash Course](https:://arazgholami.com)
-- [Unix Shell  Crash Course](https:://arazgholami.com)
-- [Laravel's Elequent Tricks](https:://arazgholami.com)
+- LaTex Crash Course (Coming soon)
+- [VIM Crash Course](https://arazgholami.com/vim-wtf-course/)
+- [Unix Shell  Crash Course](https://arazgholami.com/linux-terminal-wtf-course/)
+- [Laravel's Elequent Tricks](https://arazgholami.com/20-laravel-eloquent-tips-and-tricks/)
