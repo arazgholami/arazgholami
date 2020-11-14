@@ -1,9 +1,9 @@
 
 ![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
-# Hi! I'm Araz Gholami
+# Hi there! I'm Araz Gholami
 
 Since 2004, I make software to create things and to help others. My inspiration comes from nature and peoples like Derek Sivers and Mark Manson.<br>
-I like to make things that are as simple as possible and I enjoy solving hard problems.  <br>
+I like to make things that are as simple as possible, and I enjoy solving hard problems.  <br>
 I prefer the challenges of teamwork to work alone.<br>
 I'm a climber and in love with adventures.  <br>
 Simplicity & neatness is valuable for me and humanity call the shots in my life.
@@ -11,7 +11,8 @@ Simplicity & neatness is valuable for me and humanity call the shots in my life.
 
 # Skills and experiences
 Senior **PHP**  /  **Laravel**  Developer <br>
-Also experienced in **Symfony**  and  **Yii**<br>
+_Also experienced in **Symfony**  and  **Yii**<br>_
+
 MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
 OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 
