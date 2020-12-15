@@ -16,7 +16,8 @@ _Also experienced in **Symfony**  and  **Yii**<br>_
 MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
 OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 
-# Last posts from my [blog](https:://arazgholami.com)
+# Last posts from my [blog](https:://arazgholami.com) and [Medium](https://arazgholami.medium.com/)
+- [How to apply for a job?](https://arazgholami.medium.com/how-to-apply-for-a-job-1a44fdc42054)
 - [LaTex Crash Course](https://arazgholami.com/latex-wtf-course/)
 - [VIM Crash Course](https://arazgholami.com/vim-wtf-course/)
 - [Unix Shell  Crash Course](https://arazgholami.com/linux-terminal-wtf-course/)
