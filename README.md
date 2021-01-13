@@ -1,5 +1,10 @@
 
-![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
+<table border="0">
+  <tr>
+    <td>![Github Status](https://github-readme-stats.vercel.app/api?username=arazgholami&show_icons=true&hide=stars&include_all_commits=true)</td>
+    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhosh&layout=compact&langs_count=10)</td>
+  </tr>
+</table>
 # Hi there! I'm Araz Gholami
 
 Since 2004, I make software to create things and to help others. My inspiration comes from nature and peoples like Derek Sivers and Mark Manson.<br>
