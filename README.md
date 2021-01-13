@@ -23,4 +23,5 @@ OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 - [Laravel's Elequent Tricks](https://arazgholami.com/20-laravel-eloquent-tips-and-tricks/)
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=arazgholami&show_icons=true&hide=stars&include_all_commits=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arazgholami&layout=compact&langs_count=10)
