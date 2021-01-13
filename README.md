@@ -1,10 +1,4 @@
-
-<table border="0">
-  <tr>
-    <td>![Github Status](https://github-readme-stats.vercel.app/api?username=arazgholami&show_icons=true&hide=stars&include_all_commits=true)</td>
-    <td>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mokhosh&layout=compact&langs_count=10)</td>
-  </tr>
-</table>
+![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
 # Hi there! I'm Araz Gholami
 
 Since 2004, I make software to create things and to help others. My inspiration comes from nature and peoples like Derek Sivers and Mark Manson.<br>
@@ -27,3 +21,6 @@ OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
 - [VIM Crash Course](https://arazgholami.com/vim-wtf-course/)
 - [Unix Shell  Crash Course](https://arazgholami.com/linux-terminal-wtf-course/)
 - [Laravel's Elequent Tricks](https://arazgholami.com/20-laravel-eloquent-tips-and-tricks/)
+
+![Github Status](https://github-readme-stats.vercel.app/api?username=arazgholami&show_icons=true&hide=stars&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arazgholami&layout=compact&langs_count=10)
