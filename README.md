@@ -1,19 +1,17 @@
 ![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
 # Hi there! I'm Araz Gholami
 
-Since 2005, I have been making software to create things and to help others. My inspiration comes from nature and peoples like Derek Sivers and Mark Manson.  
-I like to make things that are as simple as possible and I enjoy solving hard problems.  
-I prefer the challenges of teamwork to work alone.  
-I'm a climber and in love with adventures.  
-Simplicity & neatness is valuable for me and humanity calls the shots in my life.  
+Hello! I’m a software engineer and I have been developing and designing different projects since 2006, I like to find the easiest and most efficient way to tackle the most difficult problems. The teamwork challenges are always my preference rather than working alone despite the fact that I always try the best practices to enhance and update my knowledge. I'm a go-getter and a down to earth person. Simplicity & neatness is valuable for me and humanity calls the shots in my life.
+My inspiration comes from nature and people like Derek Sivers and Mark Manson.
+By the way! I’ve also translated “Anything you want” one of Derek Sivers books. 
 
 
 # Skills and experiences
-Senior **PHP**  /  **Laravel**  Developer <br>
+**PHP**  /  **Laravel** <br>
 _Also experienced in **Symfony**  and  **Yii**<br>_
 
 MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
-OO / MVC / EOD / SOD / OOAD / DDD / TDD<br>
+OO / MVC / DDD / TDD<br>
 
 # Last posts from my [Blog](https:://arazgholami.com) and [Medium](https://arazgholami.medium.com/)
 - [How to apply for a job?](https://arazgholami.medium.com/how-to-apply-for-a-job-1a44fdc42054)
