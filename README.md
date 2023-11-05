@@ -14,8 +14,8 @@ MySQL / PostgreSQL / MongoDB / Apache / Ngnix<br>
 OO / MVC / DDD / TDD<br>
 
 # Last posts from my [Blog](https:://arazgholami.com) and [Medium](https://arazgholami.medium.com/)
-- A free and clean way to watch whole World TV Channels online with IPTV(https://arazgholami.medium.com/a-free-and-clean-way-to-watch-whole-world-tv-channels-online-with-iptv-draft-7c200316560f)
-- Using SSH Tunneling as VPN with Clients for Mac/Linux/Windows and iOS/Android/TV(https://arazgholami.medium.com/using-ssh-tunneling-as-vpn-with-clients-for-mac-linux-windows-and-ios-android-tv-6e80e98d1e16)
+- [A free and clean way to watch whole World TV Channels online with IPTV](https://arazgholami.medium.com/a-free-and-clean-way-to-watch-whole-world-tv-channels-online-with-iptv-draft-7c200316560f)
+- [Using SSH Tunneling as VPN with Clients for Mac/Linux/Windows and iOS/Android/TV](https://arazgholami.medium.com/using-ssh-tunneling-as-vpn-with-clients-for-mac-linux-windows-and-ios-android-tv-6e80e98d1e16)
 - [How to apply for a job?](https://arazgholami.medium.com/how-to-apply-for-a-job-1a44fdc42054)
 - [Several approaches in the workplace to have a better work experience](https://arazgholami.medium.com/several-approaches-in-the-workplace-to-have-a-better-work-experience-7b246bbff85)
 - [LaTex Crash Course](https://arazgholami.com/latex-wtf-course/)
