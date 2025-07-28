@@ -1,12 +1,16 @@
 ![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
 # Hi there! I'm Araz Gholami
-Creator of [Durnam](https://durnam.com), [Nasimi](https://github.com/arazgholami/nasimi), [Odak.app](https://odak.app), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader) and so many more.
+Creator of [Durnam](https://durnam.com), [Turkish Pantomime](https://durnam.com/pantomime) [Nasimi](https://github.com/arazgholami/nasimi), [Odak.app](https://odak.app), [WYSIWYG Markdown Editor](https://arazgholami.github.io/markdown-editor/), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader), [EasyCompress](https://durnam.com/easycompress/), [Bayqus](https://durnam.com/bayqus), [Soundscape AI](https://durnam.com/soundscape/) and [so many more](https://github.com/arazgholami?tab=repositories).
+
+## Social
+- [Twitter/X](https://twitter.com/arazgholami)
+- [Unsplash](https://unsplash.com/@arazgholami)
 
 ## Blogs
 - [Medium](https://medium.com/@arazgholami)
 - [Personal Blog](https://arazgholami.com)
 
-# Wordpress Themes
+## Wordpress Themes
 - [Nihil](https://github.com/arazgholami/nihil)
 - [Grayboy](https://github.com/arazgholami/grayboy)
 - [Lightboard](https://github.com/arazgholami/lightboard)
