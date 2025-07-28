@@ -7,15 +7,15 @@ Creator of [Durnam](https://durnam.com), [Odak.app](https://odak.app), [Awesome-
 - [Personal Blog](https://arazgholami.com)
 
 # Wordpress Themes
-- Nihil (https://github.com/arazgholami/nihil)
-- (Grayboy)[https://github.com/arazgholami/grayboy]
-- (Lightboard)[https://github.com/arazgholami/lightboard]
-- (DoNext)[https://github.com/arazgholami/donext]
-- (Rebellion)[https://github.com/arazgholami/rebellion]
-- (Tips)[https://github.com/arazgholami/tips]
+- [Nihil](https://github.com/arazgholami/nihil)
+- [Grayboy](https://github.com/arazgholami/grayboy)
+- [Lightboard](https://github.com/arazgholami/lightboard)
+- [DoNext](https://github.com/arazgholami/donext)
+- [Rebellion](https://github.com/arazgholami/rebellion)
+- [Tips](https://github.com/arazgholami/tips)
 
 ## Contact 
-[mailto:contact@arazgholami.com](contact@arazgholami.com)
+[contact@arazgholami.com](mailto:contact@arazgholami.com)
 
 ![Github Status](https://github-readme-stats.vercel.app/api?username=arazgholami&show_icons=true&hide=stars&include_all_commits=true)
 
