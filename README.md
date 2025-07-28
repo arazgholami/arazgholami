@@ -1,6 +1,6 @@
 ![Cover](https://github.com/arazgholami/arazgholami/blob/master/cover.jpg)
 # Hi there! I'm Araz Gholami
-Creator of [Durnam](https://durnam.com), [Odak.app](https://odak.app), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader) and so many more.
+Creator of [Durnam](https://durnam.com), [Nasimi](https://github.com/arazgholami/nasimi), [Odak.app](https://odak.app), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader) and so many more.
 
 ## Blogs
 - [Medium](https://medium.com/@arazgholami)
