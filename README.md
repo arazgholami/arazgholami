@@ -1,21 +1,12 @@
 # Hi there! I'm Araz Gholami
-A [Software Engineer](http://linkedin.com/in/arazgholami), [Blogger](https://medium.com/@arazgholami) and Creator of [Durnam](https://durnam.com), [Turkish Pantomime](https://durnam.com/pantomime), [Nasimi](https://github.com/arazgholami/nasimi), [Odak.app](https://odak.app), [WYSIWYG Markdown Editor](https://arazgholami.github.io/markdown-editor/), [ToDo](https://arazgholami.github.io/todo/), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader), [EasyCompress](https://durnam.com/easycompress/), [Bayqus](https://durnam.com/bayqus), [Soundscape AI](https://durnam.com/soundscape/), [Could you hide from me?](https://arazgholami.com/ip/) and [so many more](https://github.com/arazgholami?tab=repositories).
+A [Software Engineer](http://linkedin.com/in/arazgholami), [Blogger](https:/arazgholami.com) and Creator of [Durnam](https://durnam.com), [Turkish Pantomime](https://durnam.com/pantomime), [Nasimi](https://github.com/arazgholami/nasimi), [Odak.app](https://odak.app), [WYSIWYG Markdown Editor](https://arazgholami.github.io/markdown-editor/), [ToDo](https://arazgholami.github.io/todo/), [Awesome-M3U-Editor](https://arazgholami.github.io/awesome-m3u-editor/), [Easy-Reader](https://github.com/arazgholami/easy-reader), [EasyCompress](https://durnam.com/easycompress/), [Bayqus](https://durnam.com/bayqus), [Soundscape AI](https://durnam.com/soundscape/), [Could you hide from me?](https://arazgholami.com/ip/) and [so many more](https://github.com/arazgholami?tab=repositories).
 
 ## Social
 - [Twitter/X](https://twitter.com/arazgholami)
 - [Unsplash](https://unsplash.com/@arazgholami)
 
 ## Blogs
-- [Medium](https://medium.com/@arazgholami)
-- [Personal Blog](https://arazgholami.com)
-
-## Wordpress Themes
-- [Nihil](https://github.com/arazgholami/nihil)
-- [Grayboy](https://github.com/arazgholami/grayboy)
-- [Lightboard](https://github.com/arazgholami/lightboard)
-- [DoNext](https://github.com/arazgholami/donext)
-- [Rebellion](https://github.com/arazgholami/rebellion)
-- [Tips](https://github.com/arazgholami/tips)
+- [arazgholami.com](https://arazgholami.com)
 
 ## Contact 
 [contact@arazgholami.com](mailto:contact@arazgholami.com)
